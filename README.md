@@ -25,7 +25,7 @@ ABPeoplePickerNavigationController *navigationController = [[ABPeoplePickerNavig
 
 ```objective-c
 NSArray *records = ...;
-NSDate *data = [vCardSerialization vCardDataWithAddressBookRecords:records error:nil];
+NSData *data = [vCardSerialization vCardDataWithAddressBookRecords:records error:nil];
 ```
 
 ---
