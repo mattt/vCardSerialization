@@ -1,14 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//Mac OS X 10.9.2//EN
-N:Thompson;Mattt;;;
-FN:Mattt Thompson
+N:Mattt;;;
+FN:Mattt
 X-PHONETIC-FIRST-NAME:マット
-X-PHONETIC-LAST-NAME:トンプソン
-EMAIL;type=INTERNET;type=WORK:m@mattt.me
-X-SOCIALPROFILE;type=twitter:http://twitter.com/mattt
-X-SOCIALPROFILE;type=gamecenter;x-user=mattt:160850078:http://link.gc.apple.com/players/G:160850078
-item4.URL;type=pref:http://mattt.me
+EMAIL;type=INTERNET;type=WORK:mattt@me.com
+X-SOCIALPROFILE;type=twitter:https://twitter.com/mattt
+item4.URL;type=pref:https://mat.tt
 item4.X-ABLabel:_$!<HomePage>!$_
 BDAY:1987-03-17
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQEAkACQAAD/4gxYSUNDX1BST0ZJTEUA
