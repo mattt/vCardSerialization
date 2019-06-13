@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'Encodes and decodes between vCard files and AddressBook records.'
   s.homepage = 'https://github.com/mattt/vCardSerialization'
   s.social_media_url = 'https://twitter.com/mattt'
-  s.authors  = { 'Mattt Thompson' => 'm@mattt.me' }
+  s.authors  = { 'Mattt' => 'mattt@me.com' }
   s.source   = { :git => 'https://github.com/mattt/vCardSerialization.git', :tag => '0.0.1' }
   s.source_files = 'vCardSerialization'
   s.requires_arc = true
