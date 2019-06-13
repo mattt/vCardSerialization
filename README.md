@@ -1,5 +1,8 @@
-vCardSerialization
-====================
+# vCardSerialization
+
+> This library is no longer maintained.
+> In iOS 9.0+ and macOS 10.11+,
+> use [`CNContactVCardSerialization`](https://developer.apple.com/documentation/contacts/cncontactvcardserialization) instead.
 
 `vCardSerialization` encodes and decodes between [vCard](http://en.wikipedia.org/wiki/VCard) and [AddressBook](https://developer.apple.com/library/ios/documentation/AddressBook/Reference/AddressBook_iPhoneOS_Framework/_index.html) records, following the API conventions of Foundation's `NSJSONSerialization` class.
 
@@ -29,7 +32,6 @@ NSData *data = [vCardSerialization vCardDataWithAddressBookRecords:records error
 ```
 
 ---
-
 
 ## License
 
